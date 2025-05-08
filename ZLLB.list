@@ -1,4 +1,4 @@
-#PT站点域名匹配
+#PT站点域名
 DOMAIN-SUFFIX,kufei.org
 DOMAIN-SUFFIX,bilibili.download
 DOMAIN-SUFFIX,pandapt.net
@@ -32,7 +32,8 @@ DOMAIN-SUFFIX,soulvoice.club
 DOMAIN-SUFFIX,rousi.zip
 DOMAIN-SUFFIX,rousipt.com
 DOMAIN-SUFFIX,zmpt.cc
-#PT站点关键词匹配
+
+#PT站点关键词
 DOMAIN-KEYWORD,sunnytk
 DOMAIN-KEYWORD,kufei
 DOMAIN-KEYWORD,bilibili
@@ -67,5 +68,9 @@ DOMAIN-KEYWORD,btschool
 DOMAIN-KEYWORD,hspt
 DOMAIN-KEYWORD,m-team
 DOMAIN-KEYWORD,sunnypt
-#直连站点
+
+#直连站点关键词
 DOMAIN-KEYWORD,immortalwrt
+
+#直连站点域名
+DOMAIN-SUFFIX,testipv6.cn
