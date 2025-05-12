@@ -74,3 +74,4 @@ DOMAIN-KEYWORD,immortalwrt
 
 #直连站点域名
 DOMAIN-SUFFIX,testipv6.cn
+DOMAIN-SUFFIX,poe.com
