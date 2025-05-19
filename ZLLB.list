@@ -71,7 +71,6 @@ DOMAIN-KEYWORD,sunnypt
 
 #直连站点关键词
 DOMAIN-KEYWORD,immortalwrt
-DOMAIN-KEYWORD,adguard
 
 #直连站点域名
 DOMAIN-SUFFIX,testipv6.cn
