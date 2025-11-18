@@ -19,7 +19,7 @@ DOMAIN-SUFFIX,btschool.club
 DOMAIN-SUFFIX,ptzone.xyz
 DOMAIN-SUFFIX,raingfh.top
 DOMAIN-SUFFIX,icc2022.xyz
-#DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,ptcafe.club
 DOMAIN-SUFFIX,pttime.org
 DOMAIN-SUFFIX,ptl.gs
@@ -34,7 +34,7 @@ DOMAIN-SUFFIX,rousipt.com
 DOMAIN-SUFFIX,zmpt.cc
 
 #PT站点关键词
-DOMAIN-KEYWORD,tracker
+DOMAIN-KEYWORD,m-team
 DOMAIN-KEYWORD,sunnytk
 DOMAIN-KEYWORD,kufei
 DOMAIN-KEYWORD,bilibili
