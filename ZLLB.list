@@ -71,6 +71,7 @@ DOMAIN-KEYWORD,sunnypt
 
 #直连站点关键词
 DOMAIN-KEYWORD,immortalwrt
+DOMAIN-KEYWORD,autodesk
 
 
 #直连站点域名
@@ -84,4 +85,4 @@ DOMAIN-SUFFIX,userapi.com
 DOMAIN-SUFFIX,xnview.com
 DOMAIN-SUFFIX,1688.com
 DOMAIN-SUFFIX,epicgames.com
-DOMAIN-SUFFIX,autodesk.com
+
