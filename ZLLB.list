@@ -71,6 +71,7 @@ DOMAIN-KEYWORD,sunnypt
 
 #直连站点关键词
 DOMAIN-KEYWORD,immortalwrt
+DOMAIN-KEYWORD,test-ipv6
 
 
 
@@ -86,4 +87,3 @@ DOMAIN-SUFFIX,xnview.com
 DOMAIN-SUFFIX,1688.com
 DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,mykyjx.com
-DOMAIN-SUFFIX,test-ipv6.com
