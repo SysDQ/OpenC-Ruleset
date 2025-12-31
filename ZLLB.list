@@ -82,6 +82,7 @@ DOMAIN-KEYWORD,test-ipv6
 
 
 #直连站点域名
+DOMAIN-SUFFIX,playwright.download.prss.microsoft.com
 DOMAIN-SUFFIX,testipv6.cn
 DOMAIN-SUFFIX,nextdns.io
 DOMAIN-SUFFIX,mi.com
