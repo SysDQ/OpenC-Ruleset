@@ -1,4 +1,6 @@
 #PT站点域名
+DOMAIN-SUFFIX,gamegamept.com
+DOMAIN-SUFFIX,momentpt.top
 DOMAIN-SUFFIX,hxpt.org
 DOMAIN-SUFFIX,kufei.org
 DOMAIN-SUFFIX,bilibili.download
@@ -35,6 +37,9 @@ DOMAIN-SUFFIX,rousipt.com
 DOMAIN-SUFFIX,zmpt.cc
 
 #PT站点关键词
+DOMAIN-KEYWORD,hxpt
+DOMAIN-KEYWORD,momentpt
+DOMAIN-KEYWORD,gamegamept
 DOMAIN-KEYWORD,m-team
 DOMAIN-KEYWORD,sunnytk
 DOMAIN-KEYWORD,kufei
