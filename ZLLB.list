@@ -1,4 +1,5 @@
 #PT站点域名
+DOMAIN-SUFFIX,discfan.net
 DOMAIN-SUFFIX,gamegamept.com
 DOMAIN-SUFFIX,momentpt.top
 DOMAIN-SUFFIX,hxpt.org
@@ -37,6 +38,7 @@ DOMAIN-SUFFIX,rousipt.com
 DOMAIN-SUFFIX,zmpt.cc
 
 #PT站点关键词
+DOMAIN-KEYWORD,discfan
 DOMAIN-KEYWORD,hxpt
 DOMAIN-KEYWORD,momentpt
 DOMAIN-KEYWORD,gamegamept
