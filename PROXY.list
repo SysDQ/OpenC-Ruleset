@@ -19,3 +19,6 @@ DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,github
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,hf-mirror.com
+DOMAIN-SUFFIX,hf.co
