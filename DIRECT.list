@@ -1,3 +1,6 @@
+#指定端口
+DST-PORT,50006
+
 #PT站点域名
 DOMAIN-SUFFIX,discfan.net
 DOMAIN-SUFFIX,gamegamept.com
