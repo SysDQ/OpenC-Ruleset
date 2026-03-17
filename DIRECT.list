@@ -93,12 +93,10 @@ DOMAIN-KEYWORD,test-ipv6
 #直连站点域名
 DOMAIN-SUFFIX,playwright.download.prss.microsoft.com
 DOMAIN-SUFFIX,testipv6.cn
-DOMAIN-SUFFIX,nextdns.io
 DOMAIN-SUFFIX,flowercloud.com
 DOMAIN-SUFFIX,xmac.app
 DOMAIN-SUFFIX,userapi.com
 DOMAIN-SUFFIX,xnview.com
-DOMAIN-SUFFIX,1688.com
 DOMAIN-SUFFIX,epicgames.com
 DOMAIN-SUFFIX,mykyjx.com
 DOMAIN-SUFFIX,piggo.me
