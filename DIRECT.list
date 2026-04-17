@@ -103,5 +103,5 @@ DOMAIN-SUFFIX,flypy.cc
 DOMAIN-SUFFIX,zeoseven.com
 DOMAIN-SUFFIX,chatlab.fun
 DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+#DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,phncdn.com
