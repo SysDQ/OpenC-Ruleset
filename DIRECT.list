@@ -88,7 +88,7 @@ DOMAIN-KEYWORD,sunnypt
 DOMAIN-KEYWORD,immortalwrt
 DOMAIN-KEYWORD,test-ipv6
 DOMAIN-KEYWORD,dongqing
-DOMAIN-KEYWORD,adobe
+#DOMAIN-KEYWORD,adobe
 
 
 #直连站点域名
