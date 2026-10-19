@@ -89,9 +89,11 @@ DOMAIN-KEYWORD,immortalwrt
 DOMAIN-KEYWORD,test-ipv6
 DOMAIN-KEYWORD,dongqing
 #DOMAIN-KEYWORD,adobe
+DOMAIN-KEYWORD,douyin
 
 
 #直连站点域名
+DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,testipv6.cn
 DOMAIN-SUFFIX,flowercloud.com
 DOMAIN-SUFFIX,xmac.app
